@@ -1,4 +1,5 @@
 module mult
+	implicit none
 contains 
 	subroutine mm(mx1, mx2, result, status)
 		implicit none
